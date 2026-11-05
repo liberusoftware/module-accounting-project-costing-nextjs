@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-project-costing-nextjs",
+  "capabilityKey": "liberusoftware/module-accounting-project-costing",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-accounting-project-costing-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/accounting/nextjs/project-costing.md",
+  "presentationPlan": "projects/accounting/nextjs/project-costing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
